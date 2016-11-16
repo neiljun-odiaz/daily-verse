@@ -1,0 +1,12 @@
+{
+    "name": "Daily Verse",
+    "description": "Your daily dose of bible verses using http://www.ourmanna.com/verses/api/ API",
+    "version": "0.1",
+    "manifest_version": 2,
+    "icons": {
+        "128": "icon.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "dailyverse.html"
+    }
+}
